@@ -1,0 +1,6 @@
+Reset       → Count = 0
+Entry       → Count increases
+Exit        → Count decreases
+Count = 8   → Full = 1
+Entry at 8  → Count remains 8
+Exit at 8   → Count becomes 7
